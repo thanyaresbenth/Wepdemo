@@ -7,4 +7,6 @@ public class TopicDetailRequest {
     private Long topicDetailId;
     private String topicEpUrl;
     private String detailName;
+    private Long topicId;
+
 }
